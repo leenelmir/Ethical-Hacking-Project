@@ -1,15 +1,11 @@
 # Ethical-Hacking-Project
 
-**Overview**
+**Penetration Testing Project – NewBizz Ltd**
 
-Conducted a penetration test on 5 critical Linux and Windows VMs to evaluate NewBizz Ltd’s cybersecurity posture. Testing was fully authorized and simulated real-world exploitation scenarios to uncover vulnerabilities in servers and web applications.
+Conducted a full-scope penetration test on 5 Linux and Windows servers, simulating real-world exploitation:
 
-**Key Findings**
+- **Findings:** identified 25 security vulnerabilities, including weak credentials, outdated WordPress instances, and misconfigured scripts, leading to administrative access, reverse shells, and privilege escalation.
 
-**25 vulnerabilities identified**: 10 high-risk, 11 medium-risk, 4 low-risk
+- **Tools:** Nmap, WPScan, Metasploit, Burp Suite, Nikto, FFUF, and Searchsploit for network discovery, vulnerability scanning, web exploitation, and post-exploitation.
 
-- High-risk: weak credentials, outdated WordPress, misconfigured scripts → led to admin access, RCE, privilege escalation
-
-- Medium-risk: insecure password storage, enabling lateral movement
-
-- Low-risk: minor flaws that could support chained attacks
+- **Outcome:** Produced a professional security report with risk categorization and remediation recommendations.
