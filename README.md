@@ -8,8 +8,8 @@ Conducted a penetration test on 5 critical Linux and Windows VMs to evaluate New
 
 **25 vulnerabilities identified**: 10 high-risk, 11 medium-risk, 4 low-risk
 
-- **High-risk**: weak credentials, outdated WordPress, misconfigured scripts → led to admin access, RCE, privilege escalation
+- High-risk: weak credentials, outdated WordPress, misconfigured scripts → led to admin access, RCE, privilege escalation
 
-- **Medium-risk:** insecure password storage, enabling lateral movement
+- Medium-risk: insecure password storage, enabling lateral movement
 
-- **Low-risk:** minor flaws that could support chained attacks
+- Low-risk: minor flaws that could support chained attacks
