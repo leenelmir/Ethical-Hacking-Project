@@ -2,7 +2,7 @@
 
 **Penetration Testing Project – NewBizz Ltd**
 
-Conducted a full-scope penetration test on 5 Linux and Windows servers, simulating real-world exploitation:
+Conducted a full-scope penetration test on 5 Linux and Windows servers:
 
 - **Findings:** identified 25 security vulnerabilities, including weak credentials, outdated WordPress instances, and misconfigured scripts, leading to administrative access, reverse shells, and privilege escalation.
 
